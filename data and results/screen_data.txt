@@ -1,0 +1,8 @@
+cam 15.0 15.0 15.0
+normal 0.0 0.0 1.0
+up 0.0 1.0 0.0
+screen 2.0
+limit 50.0
+alpha 30.0
+width 1920
+height 1080
